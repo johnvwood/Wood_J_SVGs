@@ -1,2 +1,2 @@
-# Wood_J_SVGs
+## Huge Icon Project
 SVG Assignment - Icon Marketplace
